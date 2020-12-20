@@ -1,8 +1,8 @@
 ---
-avaialble: true
+available: true
 ---
 {
-    "avaialble": {{ avaialble }},
+    "available": {{ page.available }},
     "hire_action": "https://hire.soywiz.com/",
     "portfolio": "https://portfolio.soywiz.com/",
 }

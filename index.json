@@ -1,0 +1,8 @@
+---
+available: true
+---
+{
+    "endpoints": [
+        { "name": "hiring", "url": "https://api.soywiz.com/v1/hiring/" }
+    ]
+}
