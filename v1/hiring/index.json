@@ -1,0 +1,8 @@
+---
+avaialble: true
+---
+{
+    "avaialble": {{ avaialble }},
+    "hire_action": "https://hire.soywiz.com/",
+    "portfolio": "https://portfolio.soywiz.com/",
+}
